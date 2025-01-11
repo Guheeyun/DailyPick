@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Surface">@color/Gray_00</color>
+    <color name="Surface_Highest">@color/Gray_900</color>
+
+    <color name="On_Surface">@color/Gray_900</color>
+    <color name="On_Surface_Highest">@color/Gray_800</color>
+    <color name="On_Surface_High">@color/Gray_600</color>
+    <color name="On_Surface_Low">@color/Gray_400</color>
+    <color name="On_Surface_Lowest">@color/Gray_200</color>
+
+    <color name="Container">@color/Gray_100</color>
+    <color name="Container_Highest">@color/Gray_200</color>
+    <color name="Container_High">@color/Gray_400</color>
+    <color name="Container_Low">@color/Gray_600</color>
+    <color name="Container_Lowest">@color/Gray_800</color>
+
+
+    <color name="On_Container">@color/Gray_900</color>
+    <color name="On_Container_Highest">@color/Gray_800</color>
+    <color name="On_Container_High">@color/Gray_600</color>
+    <color name="On_Container_Low">@color/Gray_400</color>
+    <color name="On_Container_Lowest">@color/Gray_200</color>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Gray_900">#0D0D0E</color>
+    <color name="Gray_800">#2F2F33</color>
+    <color name="Gray_700">#4A4A52</color>
+    <color name="Gray_600">#6E6E74</color>
+    <color name="Gray_500">#909099</color>
+    <color name="Gray_400">#B2B2B8</color>
+    <color name="Gray_300">#C8C8CF</color>
+    <color name="Gray_200">#E2E2E8</color>
+    <color name="Gray_100">#F2F2F6</color>
+    <color name="Gray_00">#FFFFFF</color>
+
+    <color name="Primary">#22242D</color>
+    <color name="Secondary">#418AFF</color>
+
+    <color name="State_Red">#FF4343</color>
+    <color name="State_Blue">#418AFF</color>
+    <color name="State_Yellow">#FFC95E</color>
+    <color name="State_Green">#30D021</color>
+</resources>
